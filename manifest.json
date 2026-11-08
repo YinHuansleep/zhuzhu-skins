@@ -1,8 +1,8 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-09",
-  "updated": "2026-11-09 07:46:56",
-  "notice": "掌上明猪模组更新（2026-11-09）：共包含 208 个模组",
+  "updated": "2026-11-09 07:58:38",
+  "notice": "掌上明猪模组更新（2026-11-09）：共包含 207 个模组",
   "mods": [
     {
       "name": "abyssia-neoforge-1.21.1-1.0.0.jar",
@@ -351,12 +351,6 @@
       "size": 2215495,
       "sha1": "05aacb8b78a6af3f8a4c425015d487c64c118041",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar"
-    },
-    {
-      "name": "ShinColle-1.21.1-0.9.4.jar",
-      "size": 5473296,
-      "sha1": "0715f097af1c8378bee3052ccd02fb453b532300",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ShinColle-1.21.1-0.9.4.jar"
     },
     {
       "name": "Shincolle-1.21.1-0.9.5.jar",
