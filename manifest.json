@@ -1,0 +1,1256 @@
+﻿{
+  "name": "掌上明猪",
+  "version": "掌上明猪2026-11-09",
+  "updated": "2026-11-09 05:35:24",
+  "notice": "掌上明猪模组更新（2026-11-09）：共包含 207 个模组",
+  "mods": [
+    {
+      "name": "abyssia-neoforge-1.21.1-1.0.0.jar",
+      "size": 14369690,
+      "sha1": "4f9bb8a46d065db0f6aa9d53583c51e9f707b82d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/abyssia-neoforge-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "adorablehamsterpets-3.7.0-1.21.1+neoforge.jar",
+      "size": 20292862,
+      "sha1": "3d1bc31982eff30195e3a58247774b5136459e8d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/adorablehamsterpets-3.7.0-1.21.1+neoforge.jar"
+    },
+    {
+      "name": "animalia-neoforge-1.21.1-1.0.3.jar",
+      "size": 4251101,
+      "sha1": "e3207302ca91eee4c0855b2a87adad84c71dff8d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/animalia-neoforge-1.21.1-1.0.3.jar"
+    },
+    {
+      "name": "architectury-13.0.11-neoforge.jar",
+      "size": 584734,
+      "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/architectury-13.0.11-neoforge.jar"
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.67.jar",
+      "size": 786010,
+      "sha1": "68c95ca8a6a87d26199d43ff6978bc94949329e3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/balm-neoforge-1.21.1-21.0.67.jar"
+    },
+    {
+      "name": "better-whips-neoforge-1.21.1-2.1.0.jar",
+      "size": 5812628,
+      "sha1": "0436c90d443682edb59e7eb5981a4ad053eabb5c",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/better-whips-neoforge-1.21.1-2.1.0.jar"
+    },
+    {
+      "name": "biolith-neoforge-3.0.14.jar",
+      "size": 218062,
+      "sha1": "8b041bce1cd0c5f5223c285784a3e8498273d6ea",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/biolith-neoforge-3.0.14.jar"
+    },
+    {
+      "name": "blueprint-1.21.1-8.2.0.jar",
+      "size": 1214507,
+      "sha1": "b947d5faef872a3f4c856a814c994d70f2065666",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/blueprint-1.21.1-8.2.0.jar"
+    },
+    {
+      "name": "boss_companions-1.0.2-neoforge-1.21.1.jar",
+      "size": 501847,
+      "sha1": "4e84a0fc39871cf369163c6f87282c3dd14e4dce",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/boss_companions-1.0.2-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "size": 50235,
+      "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/caelus-neoforge-7.0.1+1.21.1.jar"
+    },
+    {
+      "name": "Chimes-v2.1.1-1.21.1-NeoForge.jar",
+      "size": 12478373,
+      "sha1": "991e81741231b73b2cd3cbe9ab41e73cbe99d7be",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/Chimes-v2.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "name": "citadel-2.7.1-1.21.1.jar",
+      "size": 3033076,
+      "sha1": "9d7873f74b418f4f83adf2ae41af75d2e8217cd6",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/citadel-2.7.1-1.21.1.jar"
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/cloth-config-15.0.140-neoforge.jar"
+    },
+    {
+      "name": "crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
+      "size": 2098969,
+      "sha1": "f845bb08d0755c16e86dabdc865267e673c46a6b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/crittersandcompanions-neoforge-1.21.1-2.7.0.jar"
+    },
+    {
+      "name": "croaks-2.0.0-neoforge-1.21.1.jar",
+      "size": 6859416,
+      "sha1": "1ea85c5e175c0b574bee9b3d7a53bb49240f518d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/croaks-2.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 410690,
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/curios-neoforge-9.5.1+1.21.1.jar"
+    },
+    {
+      "name": "cyclopscore-1.21.1-neoforge-1.30.0.jar",
+      "size": 1163177,
+      "sha1": "e91a27152acfaed1f6992525c16907ad354b711d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/cyclopscore-1.21.1-neoforge-1.30.0.jar"
+    },
+    {
+      "name": "DangoMusic-1.4.1+1.21.1-neoforge.jar",
+      "size": 3397573,
+      "sha1": "9339a0b134694f63271a10c0e53e7087d2407a50",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/DangoMusic-1.4.1+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "dragonlib-3.0.29+mc1.21.1-neoforge.jar",
+      "size": 2117194,
+      "sha1": "ca7227b30334cb50117efe5cf76a01772e053eed",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/dragonlib-3.0.29+mc1.21.1-neoforge.jar"
+    },
+    {
+      "name": "e33chat-NeoForge-1.21.1-2.4.17.jar",
+      "size": 568000,
+      "sha1": "18422b168d68f33408a0d3f8e713b5ddbdf7b186",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/e33chat-NeoForge-1.21.1-2.4.17.jar"
+    },
+    {
+      "name": "exposure_polaroid-neoforge-1.21.1-1.1.6.jar",
+      "size": 361404,
+      "sha1": "141ea133aff47e1655bd4a4937688bede22ebe58",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/exposure_polaroid-neoforge-1.21.1-1.1.6.jar"
+    },
+    {
+      "name": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+      "size": 558909,
+      "sha1": "94262398153d7ca5dc9ffb93e49acdbad85af223",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/FarmersStructures-1.0.6-1.21.1_neoforge.jar"
+    },
+    {
+      "name": "framework-neoforge-1.21.1-0.13.11.jar",
+      "size": 387334,
+      "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/framework-neoforge-1.21.1-0.13.11.jar"
+    },
+    {
+      "name": "ftb-chunks-neoforge-2101.1.22.jar",
+      "size": 663170,
+      "sha1": "de03aa65837c337fd2bdb9fcda7be14ecee0d0b4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ftb-chunks-neoforge-2101.1.22.jar"
+    },
+    {
+      "name": "ftb-essentials-neoforge-2101.1.10.jar",
+      "size": 217288,
+      "sha1": "fa7b3d1b06c0285dcbe8e53a27d44cd7f8d15726",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ftb-essentials-neoforge-2101.1.10.jar"
+    },
+    {
+      "name": "ftb-library-neoforge-2101.1.37.jar",
+      "size": 1439881,
+      "sha1": "b6e503587afcd678ec257e4abdc6362ff18c2fef",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ftb-library-neoforge-2101.1.37.jar"
+    },
+    {
+      "name": "ftb-teams-neoforge-2101.1.11.jar",
+      "size": 308236,
+      "sha1": "62b65f752d0326edd13244e58d5f2aec035da4e9",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ftb-teams-neoforge-2101.1.11.jar"
+    },
+    {
+      "name": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+      "size": 2392720,
+      "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar"
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "size": 634531,
+      "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar"
+    },
+    {
+      "name": "gensokyolegacy-1.0.6+1.21.1.jar",
+      "size": 7709361,
+      "sha1": "ed4d8a1b635091cd41159c2292b3263e65aaef4a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/gensokyolegacy-1.0.6+1.21.1.jar"
+    },
+    {
+      "name": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "size": 90717,
+      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+    },
+    {
+      "name": "I18nAutoUpdateMod-1.2.0-all.jar",
+      "size": 118539,
+      "sha1": "6a562b0ea75caf8cbebe521096f2062ca9c2ca50",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/I18nAutoUpdateMod-1.2.0-all.jar"
+    },
+    {
+      "name": "iconexporter-1.21.1-neoforge-1.4.2.jar",
+      "size": 41406,
+      "sha1": "12570815bd80639da5f91bd51d9c74b3cdf9c43f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/iconexporter-1.21.1-neoforge-1.4.2.jar"
+    },
+    {
+      "name": "irons_lib-1.21.1-2.3.0.jar",
+      "size": 481888,
+      "sha1": "539b49b1a3988d4084a80470f0cfa404258bf0d0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/irons_lib-1.21.1-2.3.0.jar"
+    },
+    {
+      "name": "jupiter-2.3.7-1.21.1-neoforge.jar",
+      "size": 278988,
+      "sha1": "569fb484ea5c8e8d690945ad4cd132131a719751",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/jupiter-2.3.7-1.21.1-neoforge.jar"
+    },
+    {
+      "name": "kaleidoscope_lib-1.1.0-neoforge+mc1.21.1.jar",
+      "size": 509265,
+      "sha1": "a8923f89085a8536298be3e689e405305afc6a20",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/kaleidoscope_lib-1.1.0-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "kambrik-neoforge-8.0.0-beta.2.jar",
+      "size": 436428,
+      "sha1": "9e41688287925e7a65375d96f32eefca7ab2a821",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/kambrik-neoforge-8.0.0-beta.2.jar"
+    },
+    {
+      "name": "kingsandmonsters1.2.2.jar",
+      "size": 10161269,
+      "sha1": "8e3e0e84b00270d8cc429cffca6ee2ffe15de557",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/kingsandmonsters1.2.2.jar"
+    },
+    {
+      "name": "knightlib-neoforge-1.21.1-2.0.5.jar",
+      "size": 1082081,
+      "sha1": "8afd733e7fc49db40686f411e0e2a41ac7619256",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/knightlib-neoforge-1.21.1-2.0.5.jar"
+    },
+    {
+      "name": "kotlinforforge-5.12.0-all.jar",
+      "size": 7279276,
+      "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/kotlinforforge-5.12.0-all.jar"
+    },
+    {
+      "name": "lionfishapi-3.1.jar",
+      "size": 91596,
+      "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/lionfishapi-3.1.jar"
+    },
+    {
+      "name": "lithostitched-1.8.1-neoforge-21.1.jar",
+      "size": 1023751,
+      "sha1": "88cdded5b617e19b4d2676948b5550699de23578",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/lithostitched-1.8.1-neoforge-21.1.jar"
+    },
+    {
+      "name": "lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "size": 1075929,
+      "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/lootr-neoforge-1.21.1-1.11.38.127.jar"
+    },
+    {
+      "name": "mixed_litter-1.2.2.jar",
+      "size": 180414,
+      "sha1": "8565909bc8045ebbca0068615d6756523bcafe83",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/mixed_litter-1.2.2.jar"
+    },
+    {
+      "name": "ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar",
+      "size": 25228113,
+      "sha1": "d6dc4131595f6b38274e5c16ef13895ab2125010",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar"
+    },
+    {
+      "name": "mordenwindows-neoforge-1.21.1-1.0.1.jar",
+      "size": 3437824,
+      "sha1": "27aeb66995a8d0736a0cd847a7a6aedb5d3acd95",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/mordenwindows-neoforge-1.21.1-1.0.1.jar"
+    },
+    {
+      "name": "mythika-neoforge-1.21.1-1.2.1.jar",
+      "size": 335622,
+      "sha1": "207e0fdc7260898ed8ad8336714f69c30d109638",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/mythika-neoforge-1.21.1-1.2.1.jar"
+    },
+    {
+      "name": "neoguanniao-3.5.2-1.21.1-neoforge.jar",
+      "size": 3547428,
+      "sha1": "c1e308ad6bf1988641d88dc5ce6c7508b2a1fbe7",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/neoguanniao-3.5.2-1.21.1-neoforge.jar"
+    },
+    {
+      "name": "nomansdelight-2.2.0.jar",
+      "size": 147661,
+      "sha1": "28aa89d854ab2b70f0649ceb92c44ff74e8411c3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/nomansdelight-2.2.0.jar"
+    },
+    {
+      "name": "northeast_china_delight-3.2.1+1.21.1.jar",
+      "size": 5404155,
+      "sha1": "abd087a7149759fea3e60f9a5bcfde75ca938c87",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/northeast_china_delight-3.2.1+1.21.1.jar"
+    },
+    {
+      "name": "observerlib-1.10.3.jar",
+      "size": 114651,
+      "sha1": "f8b357513c22b62f0cdbe0259305620541a45fa2",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/observerlib-1.10.3.jar"
+    },
+    {
+      "name": "OELib-neoforge-1.21.1-0.2.3.jar",
+      "size": 840689,
+      "sha1": "8457b2423f62c896ef8c290ab511a0a71b442750",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/OELib-neoforge-1.21.1-0.2.3.jar"
+    },
+    {
+      "name": "oracle_index-neoforge-1.4.0.jar",
+      "size": 29675090,
+      "sha1": "90415e944016b45bd3791bfa3705e9e8345e1dde",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/oracle_index-neoforge-1.4.0.jar"
+    },
+    {
+      "name": "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
+      "size": 1223197,
+      "sha1": "3a7f843ce3a4d24f8765a74bc5dde914b316b992",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar"
+    },
+    {
+      "name": "patchlib-1.3.0.jar",
+      "size": 203756,
+      "sha1": "1906676a5a2ff9ee9177d0b75b0cfac0e2c66bbf",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/patchlib-1.3.0.jar"
+    },
+    {
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
+    },
+    {
+      "name": "pool-and-billiards-v1.3.7-mc1.21plus.jar",
+      "size": 7734569,
+      "sha1": "a9dee9d516dd886f11d607bb6f86f43e9e49b4da",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/pool-and-billiards-v1.3.7-mc1.21plus.jar"
+    },
+    {
+      "name": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
+      "size": 2215495,
+      "sha1": "05aacb8b78a6af3f8a4c425015d487c64c118041",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar"
+    },
+    {
+      "name": "ShinColle-1.21.1-0.9.4.jar",
+      "size": 5473296,
+      "sha1": "0715f097af1c8378bee3052ccd02fb453b532300",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/ShinColle-1.21.1-0.9.4.jar"
+    },
+    {
+      "name": "Shincolle-1.21.1-0.9.5.jar",
+      "size": 6576868,
+      "sha1": "9a55755438016e2e8c9305b1c152cf7f95223efe",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/Shincolle-1.21.1-0.9.5.jar"
+    },
+    {
+      "name": "SimplyTooltips-neoforge-0.1.5.jar",
+      "size": 5512986,
+      "sha1": "6227453d5b628b1009d6ec516a0da5b588849744",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/SimplyTooltips-neoforge-0.1.5.jar"
+    },
+    {
+      "name": "starfront-1.0.3.jar",
+      "size": 50114333,
+      "sha1": "9026a7c86e00ccc96e4d7934c03fed073c358dcd",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/starfront-1.0.3.jar"
+    },
+    {
+      "name": "teallib-1.3.teal.jar",
+      "size": 262609,
+      "sha1": "b186cdfd311158858429e494ecd11e2157274eff",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/teallib-1.3.teal.jar"
+    },
+    {
+      "name": "tectonic-3.0.28-neoforge-21.1.jar",
+      "size": 451757,
+      "sha1": "db15156eec4320c2997c4dd4948119472de01224",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/tectonic-3.0.28-neoforge-21.1.jar"
+    },
+    {
+      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "size": 120365,
+      "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+    },
+    {
+      "name": "tlm_overture-0.2.0.jar",
+      "size": 413557,
+      "sha1": "85c9957544e0278fbe31b1f917f3537d04735555",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/tlm_overture-0.2.0.jar"
+    },
+    {
+      "name": "uranus-3.0-beta.1.jar",
+      "size": 221525,
+      "sha1": "c87886ec34ba1282366801f84f6953dc42cb42b2",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/uranus-3.0-beta.1.jar"
+    },
+    {
+      "name": "vaskars-bestiary-neoforge-1.21.1-0.3.1.jar",
+      "size": 62909051,
+      "sha1": "276129d1b08ece7c6e0ff65a29759578a1aa51f3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/vaskars-bestiary-neoforge-1.21.1-0.3.1.jar"
+    },
+    {
+      "name": "vaskars-opus-neoforge-1.21.1-0.6.0.jar",
+      "size": 33696128,
+      "sha1": "4284e5ce2adb3f8efc6004dbcfc855f4175ee485",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/vaskars-opus-neoforge-1.21.1-0.6.0.jar"
+    },
+    {
+      "name": "vaskars-remains-neoforge-1.21.1-0.7.0.jar",
+      "size": 16050430,
+      "sha1": "01a9ec7b4a363b77c8445ba1fc4725023397b823",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/vaskars-remains-neoforge-1.21.1-0.7.0.jar"
+    },
+    {
+      "name": "waterframes-NEOFORGE-mc1.21.1-v3.0.0-alpha.1.jar",
+      "size": 549036,
+      "sha1": "5a2e95aacfb78ef53b7d565e85d0d8101926dbc5",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/waterframes-NEOFORGE-mc1.21.1-v3.0.0-alpha.1.jar"
+    },
+    {
+      "name": "watermedia-3.0.0.jar",
+      "size": 3332542,
+      "sha1": "9d0e7c242a99edb96467abc643d09f3055644162",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/watermedia-3.0.0.jar"
+    },
+    {
+      "name": "watermedia_binaries-3.0.0.jar",
+      "size": 152312981,
+      "sha1": "06162a4736437e31214c65b89126ce6a97b4431d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/watermedia_binaries-3.0.0.jar"
+    },
+    {
+      "name": "xercamusic-neoforge-1.21.1-1.2.1.jar",
+      "size": 9736521,
+      "sha1": "c2bfac538479c7cac8d1d4b77012d571a33e4f0b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/xercamusic-neoforge-1.21.1-1.2.1.jar"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "size": 1118651,
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "size": 413763,
+      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar"
+    },
+    {
+      "name": "[FTB 任务] ftb-quests-neoforge-2101.1.37.jar",
+      "size": 1635351,
+      "sha1": "770938e5907cc91be2f89ac00aea2e87b51e1c87",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[FTB 任务] ftb-quests-neoforge-2101.1.37.jar"
+    },
+    {
+      "name": "[GD656击杀图标] gd656killicon-1.1.0.020-1.21.1-neoforge.jar",
+      "size": 5939602,
+      "sha1": "d654fefdf4cdf699093b013f8428d54ee886470b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[GD656击杀图标] gd656killicon-1.1.0.020-1.21.1-neoforge.jar"
+    },
+    {
+      "name": "[Iron的法术与魔法书] irons_spellbooks-1.21.1-3.16.3.jar",
+      "size": 13890046,
+      "sha1": "017fd8140c477f9ae602cf95594f1c23bef1d6e3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Iron的法术与魔法书] irons_spellbooks-1.21.1-3.16.3.jar"
+    },
+    {
+      "name": "[Macaw 的楼梯与露台 ／ 麦考的楼梯与阳台] mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "size": 529082,
+      "sha1": "1ee43d693c821efc955a74e551f94372af90a140",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Macaw 的楼梯与露台 ／ 麦考的楼梯与阳台] mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "name": "[Macaw 的灯 ／ 麦考的灯具] mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "size": 525744,
+      "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Macaw 的灯 ／ 麦考的灯具] mcw-lights-1.1.5-mc1.21.1neoforge.jar"
+    },
+    {
+      "name": "[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "size": 1261268,
+      "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Macaw 的窗户] mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "name": "[Macaw 的门 ／ 麦考的门] mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "size": 1190404,
+      "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Macaw 的门 ／ 麦考的门] mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+    },
+    {
+      "name": "[Macaw的桥梁] mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "size": 661387,
+      "sha1": "71ece28129789a2123cf07e79938f488d8675bb2",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Macaw的桥梁] mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "name": "[Mowzie的生物] mowziesmobs-1.21.1-1.8.2.jar",
+      "size": 36042925,
+      "sha1": "d64475cd77444b056ece6472c79d40293dc63c6c",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Mowzie的生物] mowziesmobs-1.21.1-1.8.2.jar"
+    },
+    {
+      "name": "[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "size": 7133477,
+      "sha1": "6c209e6b755ff26218efd55aedf2dea49183d29b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[MrCrayfish 的家具：重制] refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+    },
+    {
+      "name": "[Quincy的盘子] quincyplate-neoforge1.21(.1)-v1.0.4.jar",
+      "size": 200555,
+      "sha1": "f63709d5eb08a405c2491924c6f0709f7fc30723",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Quincy的盘子] quincyplate-neoforge1.21(.1)-v1.0.4.jar"
+    },
+    {
+      "name": "[万用皮肤补丁] CustomSkinLoader_Universal-15.1.jar",
+      "size": 222917,
+      "sha1": "324e6921ecd576e44875981466e7f22170b6541a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[万用皮肤补丁] CustomSkinLoader_Universal-15.1.jar"
+    },
+    {
+      "name": "[下单了] ordertocook-1.3.6-neoforge1.21.1.jar",
+      "size": 1300558,
+      "sha1": "363e91732d863b561daaae448a7f9fee7b38cde4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[下单了] ordertocook-1.3.6-neoforge1.21.1.jar"
+    },
+    {
+      "name": "[东篱南山居]flavor_immersed_daily_argo-1.21.1-neoforge-2026.11.08.jar",
+      "size": 4859877,
+      "sha1": "d105d72d8c4d7432b41d6ee958accfea40363ced",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[东篱南山居]flavor_immersed_daily_argo-1.21.1-neoforge-2026.11.08.jar"
+    },
+    {
+      "name": "[乡村乐事] rusticdelight-neoforge-1.21-1.7.1.jar",
+      "size": 1031957,
+      "sha1": "697df889af0cec1823cf5330fca62bf7f6e5037f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[乡村乐事] rusticdelight-neoforge-1.21-1.7.1.jar"
+    },
+    {
+      "name": "[优化] 动态FPS-dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "size": 220193,
+      "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 动态FPS-dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+    },
+    {
+      "name": "[优化] 微优化-BadOptimizations-2.4.1-1.21.1.jar",
+      "size": 283566,
+      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 微优化-BadOptimizations-2.4.1-1.21.1.jar"
+    },
+    {
+      "name": "[优化] 现代修复-modernfix-neoforge-5.27.27+mc1.21.1.jar",
+      "size": 614138,
+      "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 现代修复-modernfix-neoforge-5.27.27+mc1.21.1.jar"
+    },
+    {
+      "name": "[优化] 立即加速-ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "size": 368896,
+      "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 立即加速-ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar"
+    },
+    {
+      "name": "[优化] 虹彩光影-iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "size": 2540723,
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 虹彩光影-iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+    },
+    {
+      "name": "[优化] 钠-sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "size": 1292934,
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 钠-sodium-neoforge-0.8.13+mc1.21.1.jar"
+    },
+    {
+      "name": "[优化] 钠菜单扩展-reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+      "size": 258894,
+      "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 钠菜单扩展-reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar"
+    },
+    {
+      "name": "[优化] 钠设置增强-sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+      "size": 483373,
+      "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 钠设置增强-sodium-extra-neoforge-0.9.5+mc1.21.1.jar"
+    },
+    {
+      "name": "[优化] 铁氧体磁芯-ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[优化] 铁氧体磁芯-ferritecore-7.0.3-neoforge.jar"
+    },
+    {
+      "name": "[传奇怪物] legendary_monsters-2.2.4 MC 1.21.1.jar",
+      "size": 44757511,
+      "sha1": "85778d7f4b7c1546279be9374be3b71b47e2c47d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[传奇怪物] legendary_monsters-2.2.4 MC 1.21.1.jar"
+    },
+    {
+      "name": "[传奇珍味NeoForge版] legendary_delicacies-1.21.1-1.0.6.jar",
+      "size": 868070,
+      "sha1": "206a195c5a45cae8259d17dbfb7c8f7223114d2a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[传奇珍味NeoForge版] legendary_delicacies-1.21.1-1.0.6.jar"
+    },
+    {
+      "name": "[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.46.jar",
+      "size": 1223229,
+      "sha1": "75718161662d9ec957ba22e10e497788ec1687ba",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[传送石碑／指路石] waystones-neoforge-1.21.1-21.1.46.jar"
+    },
+    {
+      "name": "[侏罗纪重生] jurassicreborn-1.4.2.jar",
+      "size": 172314074,
+      "sha1": "2b2f8a2b5047460db0c305e4dd832a2febe49834",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[侏罗纪重生] jurassicreborn-1.4.2.jar"
+    },
+    {
+      "name": "[储物抽屉] StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "size": 1131419,
+      "sha1": "5347db4d1150b132841bd124d1608f812bf8076f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[储物抽屉] StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+    },
+    {
+      "name": "[农夫乐事] FarmersDelight-1.21.1-1.3.4.jar",
+      "size": 3160490,
+      "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[农夫乐事] FarmersDelight-1.21.1-1.3.4.jar"
+    },
+    {
+      "name": "[冰火传说社区版] iceandfire-2.1.4.jar",
+      "size": 20938104,
+      "sha1": "3bffc3a55369bba28db6c2f6a5e827b1c6ac8586",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[冰火传说社区版] iceandfire-2.1.4.jar"
+    },
+    {
+      "name": "[千古乐事] immortalers_delight-1.21.1-neoforge-1.0.10.jar",
+      "size": 3213540,
+      "sha1": "de85eabfa7ca6928d81d5bb9b55940c12b17db07",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[千古乐事] immortalers_delight-1.21.1-neoforge-1.0.10.jar"
+    },
+    {
+      "name": "[同伴！] companions-neoforge-1.21.1-1.3.6.jar",
+      "size": 7193991,
+      "sha1": "ce962afe533a28902ecb5aa27b9650762d2f30b8",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[同伴！] companions-neoforge-1.21.1-1.3.6.jar"
+    },
+    {
+      "name": "[哥布林的统治] goblins_tyranny-neoforge-1.21.1-1.2.5.jar",
+      "size": 7659787,
+      "sha1": "4888f7e5f361a44ce0b81fdd409b996aa43c0c39",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[哥布林的统治] goblins_tyranny-neoforge-1.21.1-1.2.5.jar"
+    },
+    {
+      "name": "[夜雀乐事] mystias_izakaya-neoforge-1.21.1-0.2.6-hf.jar",
+      "size": 1514057,
+      "sha1": "4310738352f8b386c50a735271f2d663952a4cb8",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[夜雀乐事] mystias_izakaya-neoforge-1.21.1-0.2.6-hf.jar"
+    },
+    {
+      "name": "[夜雀食堂] mystia_izakaya-1.1.jar",
+      "size": 1338683,
+      "sha1": "9819873002c06a08dd3d2dcbb32687ca3022b04f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[夜雀食堂] mystia_izakaya-1.1.jar"
+    },
+    {
+      "name": "[女仆酒馆] maidtavern-1.2.0.jar",
+      "size": 224623,
+      "sha1": "ac621bbb7d0750aa374d06f0ab0310ca7bd61013",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[女仆酒馆] maidtavern-1.2.0.jar"
+    },
+    {
+      "name": "[女仆餐厅] maid_restaurant-0.2.9.jar",
+      "size": 405729,
+      "sha1": "a6e7157e9c22cf40080b083fdabc20f147b8b628",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[女仆餐厅] maid_restaurant-0.2.9.jar"
+    },
+    {
+      "name": "[女仆餐厅：营业中] maid_restaurant_business-1.21.1-neoforge-0.2.4-fix3.jar",
+      "size": 1310812,
+      "sha1": "e0e607a8cf26275b22e6f4927240f3b2fee33acc",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[女仆餐厅：营业中] maid_restaurant_business-1.21.1-neoforge-0.2.4-fix3.jar"
+    },
+    {
+      "name": "[妖怪们的归家] youkaishomecoming-3.0.8.jar",
+      "size": 2543939,
+      "sha1": "c9fbddb6fdefcbb807f5c5e537875491edf7be3c",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[妖怪们的归家] youkaishomecoming-3.0.8.jar"
+    },
+    {
+      "name": "[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar",
+      "size": 646777,
+      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar"
+    },
+    {
+      "name": "[幻想乡乐事 -- 妖怪们的飨宴] youkaishomecoming-4.2.16.jar",
+      "size": 10060739,
+      "sha1": "fbfe9be2198e0984e097a176659e9af220209d6e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[幻想乡乐事 -- 妖怪们的飨宴] youkaishomecoming-4.2.16.jar"
+    },
+    {
+      "name": "[惊悚乐事] frightsdelight-neoforge-1.21.1-1.4.8.jar",
+      "size": 968074,
+      "sha1": "fe92b14b28156efce31d1e3691de52acc46d266e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[惊悚乐事] frightsdelight-neoforge-1.21.1-1.4.8.jar"
+    },
+    {
+      "name": "[扩充乐事] expandeddelight-0.1.4.jar",
+      "size": 547554,
+      "sha1": "cf26fe18c3a9deec525fe0f0e7c2d3b9f4e9f484",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[扩充乐事] expandeddelight-0.1.4.jar"
+    },
+    {
+      "name": "[拾光定影] exposure-neoforge-1.21.1-1.9.19.jar",
+      "size": 2206392,
+      "sha1": "181d328a0328523fa99dd310937c40d917e91029",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[拾光定影] exposure-neoforge-1.21.1-1.9.19.jar"
+    },
+    {
+      "name": "[掌上明猪] piggymenu-1.0.0.jar",
+      "size": 143830,
+      "sha1": "ee7ad1818ffa694ec2bcfbf8d26cb62bbc3e57c6",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] piggymenu-1.0.0.jar"
+    },
+    {
+      "name": "[掌上明猪] piggysettlement-1.0.0.jar",
+      "size": 164996,
+      "sha1": "beca2f9b725d8fdefccaefdead969143d15a477a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] piggysettlement-1.0.0.jar"
+    },
+    {
+      "name": "[掌上明猪] tacz_blueprints-1.0.0.jar",
+      "size": 54807,
+      "sha1": "5bc037aab901245e847abf4554dbe3a8b7579964",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] tacz_blueprints-1.0.0.jar"
+    },
+    {
+      "name": "[掌上明猪] watermedia-cn-1.1.0.jar",
+      "size": 77705,
+      "sha1": "ae8b3a59d4e51a6b1de86b8a8dfc2f0eea92b1d3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] watermedia-cn-1.1.0.jar"
+    },
+    {
+      "name": "[掌上明猪] zhuzhuecon-1.0.0.jar",
+      "size": 335334,
+      "sha1": "fd16ec1f32313c566807afb7612b6e863c35029f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] zhuzhuecon-1.0.0.jar"
+    },
+    {
+      "name": "[提瓦特乐事] teyvatdelight-1.1.12.jar",
+      "size": 1787102,
+      "sha1": "9147431862291429eee72fc3dfed9b452f890280",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[提瓦特乐事] teyvatdelight-1.1.12.jar"
+    },
+    {
+      "name": "[方块小镇] yuushya-1.21.0-neoforge-2.3.0.jar",
+      "size": 28196044,
+      "sha1": "df9635654d5f3b21e90e3cbdea33638af4ed0571",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[方块小镇] yuushya-1.21.0-neoforge-2.3.0.jar"
+    },
+    {
+      "name": "[方块建模] yuushya_modelling-1.21.1-2.4.1.jar",
+      "size": 693143,
+      "sha1": "c067f0939ba6d215f5e9076400e7c7725979dbe3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[方块建模] yuushya_modelling-1.21.1-2.4.1.jar"
+    },
+    {
+      "name": "[旋律魔法] melodymagic-1.4.14.jar",
+      "size": 430742,
+      "sha1": "8bd62f9587b3a3b49047879a56b8915eac5423e3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[旋律魔法] melodymagic-1.4.14.jar"
+    },
+    {
+      "name": "[无人之境] nomansland-1.6.3.jar",
+      "size": 31737013,
+      "sha1": "c6f69a4d7e23c07cf6321792cd134b99a2078938",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[无人之境] nomansland-1.6.3.jar"
+    },
+    {
+      "name": "[星辉魔法] AstralSorcery-2.0.3.59.jar",
+      "size": 18168322,
+      "sha1": "66f36655eae7cb404c9c16da6f33db31dff6ed9a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[星辉魔法] AstralSorcery-2.0.3.59.jar"
+    },
+    {
+      "name": "[是，史蒂夫模型] ysm-2.6.5-neoforge+mc1.21.1-release.jar",
+      "size": 63463229,
+      "sha1": "18bec74a5b7f3778ce162ddbbbd5555aff0eda2e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[是，史蒂夫模型] ysm-2.6.5-neoforge+mc1.21.1-release.jar"
+    },
+    {
+      "name": "[末地乐事] ends_delight-2.6.1+neoforge.1.21.1.jar",
+      "size": 258124,
+      "sha1": "0613a535d82b7a3d51d0caf0e04b082cb4c062e9",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[末地乐事] ends_delight-2.6.1+neoforge.1.21.1.jar"
+    },
+    {
+      "name": "[机械动力] create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力] create-1.21.1-6.0.10.jar"
+    },
+    {
+      "name": "[机械动力：伪装方块+] copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "size": 1799381,
+      "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：伪装方块+] copycats-3.0.9+mc.1.21.1-neoforge.jar"
+    },
+    {
+      "name": "[机械动力：内饰] interiors-1.21.1-neoforge-0.6.1.jar",
+      "size": 486912,
+      "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：内饰] interiors-1.21.1-neoforge-0.6.1.jar"
+    },
+    {
+      "name": "[机械动力：创意传动] create_connected-1.3.3-mc1.21.1.jar",
+      "size": 6786783,
+      "sha1": "96ae45fa44cd7028a31b9613cb672009e811b145",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：创意传动] create_connected-1.3.3-mc1.21.1.jar"
+    },
+    {
+      "name": "[机械动力：改进] createimp-1.4.2.jar",
+      "size": 1509080,
+      "sha1": "88b9a005f92db97f4b842b62c99275929f562511",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：改进] createimp-1.4.2.jar"
+    },
+    {
+      "name": "[机械动力：流光溢彩] createprism-1.2.2.jar",
+      "size": 1287223,
+      "sha1": "2c911b9b9abaac0572f0935ccfc9ae91c02eb4c7",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：流光溢彩] createprism-1.2.2.jar"
+    },
+    {
+      "name": "[机械动力：自动扶梯] escalated-1.3.2+mc.1.21.1.jar",
+      "size": 512624,
+      "sha1": "34854b74bd9c627b873cb21bb5ec15fbad038db6",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：自动扶梯] escalated-1.3.2+mc.1.21.1.jar"
+    },
+    {
+      "name": "[机械动力：铁路导航] createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar",
+      "size": 4680276,
+      "sha1": "bf0ff70b421fb6fdb899f21e8e2899bbc9bd5e33",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力：铁路导航] createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar"
+    },
+    {
+      "name": "[森罗物语：下界] kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar",
+      "size": 1030521,
+      "sha1": "b860c9a32bcbb991aceed2effff1a1a8e6dbec68",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：下界] kaleidoscope_nether-1.1.4-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "[森罗物语：世界名酒] kaleidoscope_world_liquor-1.1.12-neoforge+1.21.1.jar",
+      "size": 6802055,
+      "sha1": "5df31431e7386c78cceda601e9c59217b920c5a3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：世界名酒] kaleidoscope_world_liquor-1.1.12-neoforge+1.21.1.jar"
+    },
+    {
+      "name": "[森罗物语：兼容] kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar",
+      "size": 1379264,
+      "sha1": "3a3c849e5629a604c90b36741ab379a0a2e5f871",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：兼容] kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar"
+    },
+    {
+      "name": "[森罗物语：厨房] kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+      "size": 3496661,
+      "sha1": "9093e830c91a8f2e19eca7dda78713f0bbc21327",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：厨房] kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "[森罗物语：国味] kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar",
+      "size": 8823097,
+      "sha1": "4d6f08be14a4189583b8661fc3d21ca5a1be2a66",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：国味] kaleidoscope_chinesefood-1.1.16-neoforge+1.21.1.jar"
+    },
+    {
+      "name": "[森罗物语：末地] kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar",
+      "size": 465346,
+      "sha1": "23cb256867fc2f807dcd06cb3dee9ceca9d0d84a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：末地] kaleidoscope_end-1.1.0-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "[森罗物语：次元酒窖] kaleidoscope_dim_wine-1.5.8-mc1.21.1-neoforge.jar",
+      "size": 1103569,
+      "sha1": "a29fd19be768432d15c1241a9fba93fa164bdbb4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：次元酒窖] kaleidoscope_dim_wine-1.5.8-mc1.21.1-neoforge.jar"
+    },
+    {
+      "name": "[森罗物语：沉浸式品尝] kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar",
+      "size": 2733893,
+      "sha1": "bb27c11337a67791d9c3319ae369b8293960c28e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：沉浸式品尝] kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar"
+    },
+    {
+      "name": "[森罗物语：烟火] kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar",
+      "size": 3245725,
+      "sha1": "fe584c6a1affd3ff4a6f3a7c1536958da97c1f14",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：烟火] kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar"
+    },
+    {
+      "name": "[森罗物语：花香四溢] kaleidoscope-flora-0.3.5.1.jar",
+      "size": 837545,
+      "sha1": "b54cfab523fed188698cd3e8d2006164636b8ae6",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：花香四溢] kaleidoscope-flora-0.3.5.1.jar"
+    },
+    {
+      "name": "[森罗物语：酒馆] kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+      "size": 1708047,
+      "sha1": "bf026cb97921749adf6155181d2f9639d37a7261",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[森罗物语：酒馆] kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "[樱途旅事] [1.3support]trailandtales_delight-2.40.jar",
+      "size": 752326,
+      "sha1": "c6113ebfec3ba40114db9aa17b282f970720acef",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[樱途旅事] [1.3support]trailandtales_delight-2.40.jar"
+    },
+    {
+      "name": "[水产业2 ／ 水产品2] Aquaculture-1.21.1-2.7.21.jar",
+      "size": 605949,
+      "sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[水产业2 ／ 水产品2] Aquaculture-1.21.1-2.7.21.jar"
+    },
+    {
+      "name": "[水产乐事] aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "size": 213607,
+      "sha1": "111393c07a98f29cab1de0d91965cc1bc6d9d73f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[水产乐事] aquaculturedelight-1.2.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "[永恒枪械工坊：零] tacz-neoforge-1.21.1-1.2.0.jar",
+      "size": 68786458,
+      "sha1": "a4d959f21f7b76acdbea0800f9c32eec595b0a7a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[永恒枪械工坊：零] tacz-neoforge-1.21.1-1.2.0.jar"
+    },
+    {
+      "name": "[沉浸式奏乐] immersive_melodies-neoforge-0.8.2+1.21.1.jar",
+      "size": 5570070,
+      "sha1": "3c36714c2423cff437dcc2a4e7da0d703494899e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[沉浸式奏乐] immersive_melodies-neoforge-0.8.2+1.21.1.jar"
+    },
+    {
+      "name": "[沉浸式飞机] immersive_aircraft-neoforge-1.7.0+1.21.1.jar",
+      "size": 2543237,
+      "sha1": "5cf33cd634a88ec5728668bf13421645f11fbbe4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[沉浸式飞机] immersive_aircraft-neoforge-1.7.0+1.21.1.jar"
+    },
+    {
+      "name": "[游牧帐篷] nomadictents-21.1.0.jar",
+      "size": 702008,
+      "sha1": "49d4ad2de88a9e86143a948ba9744e9ea34d3d8e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[游牧帐篷] nomadictents-21.1.0.jar"
+    },
+    {
+      "name": "[潮汐委托] tidalcommission-neoforge-1.21.1-1.7.0.jar",
+      "size": 4311118,
+      "sha1": "8b9ac57301fac73b6e5d0a190c61927455603aea",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[潮汐委托] tidalcommission-neoforge-1.21.1-1.7.0.jar"
+    },
+    {
+      "name": "[灾变] L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "size": 73375667,
+      "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[灾变] L_Ender's Cataclysm 1.21.1-3.33.jar"
+    },
+    {
+      "name": "[烘焙坊] bakeries-1.21.1-NeoForge-1.0.5.jar",
+      "size": 2611838,
+      "sha1": "86356f7495db5160a5aa858e90a003386b84335b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[烘焙坊] bakeries-1.21.1-NeoForge-1.0.5.jar"
+    },
+    {
+      "name": "[烟火凡人心]flavor_immersed_daily-1.21.1-neoforge-2026.11.7.jar",
+      "size": 4589086,
+      "sha1": "fd37428501a0adc3687f7993d7b3a8477f397964",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[烟火凡人心]flavor_immersed_daily-1.21.1-neoforge-2026.11.7.jar"
+    },
+    {
+      "name": "[烧烤乐事] barbequesdelight-1.3.0.jar",
+      "size": 847092,
+      "sha1": "b69ee6fdd97d0d01eb0a6e9996912457226da909",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[烧烤乐事] barbequesdelight-1.3.0.jar"
+    },
+    {
+      "name": "[猛龙之居] wyrmroost-1.4.1.jar",
+      "size": 4364319,
+      "sha1": "035e0905d3d499c55f650269dd43504fb6d34283",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[猛龙之居] wyrmroost-1.4.1.jar"
+    },
+    {
+      "name": "[生机遍布] spawn-4.0.8-1.21.1.jar",
+      "size": 73681436,
+      "sha1": "3af0c476f36a3888f4686c181036a0a179a8b7b5",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[生机遍布] spawn-4.0.8-1.21.1.jar"
+    },
+    {
+      "name": "[简易刀剑] simplyswords-neoforge-1.70.2-1.21.1.jar",
+      "size": 16282660,
+      "sha1": "05b074ff774467f1fe9fb5592151b7845c321cbc",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[简易刀剑] simplyswords-neoforge-1.70.2-1.21.1.jar"
+    },
+    {
+      "name": "[精妙核心] sophisticatedcore-1.21.1-1.5.19.2434.jar",
+      "size": 1820184,
+      "sha1": "65b02ed978ac9b748c4861b16bb5bac084fe85f5",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[精妙核心] sophisticatedcore-1.21.1-1.5.19.2434.jar"
+    },
+    {
+      "name": "[精妙背包] sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+      "size": 1256227,
+      "sha1": "dc86c4875b1da88524aca1f678d68906c7921a94",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[精妙背包] sophisticatedbackpacks-1.21.1-3.26.17.2232.jar"
+    },
+    {
+      "name": "[紫剑生态：沧海] puriseco_ocean-1.5.9-neoforge-1.21.1.jar",
+      "size": 7129437,
+      "sha1": "6412cffc99b1575dd2a781d4809e06ba4c25f679",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[紫剑生态：沧海] puriseco_ocean-1.5.9-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "[绘画之乐] xercapaint-neoforge-1.21.1-2.0.1.jar",
+      "size": 438395,
+      "sha1": "24674a7c3ed5ad152878a5f9b1d9a358fbbc2576",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[绘画之乐] xercapaint-neoforge-1.21.1-2.0.1.jar"
+    },
+    {
+      "name": "[美化！] beautify-neoforge-1.21.1-2.0.2.jar",
+      "size": 932199,
+      "sha1": "936dc981f243c4606376ba7d6f03798e0b5a6871",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[美化！] beautify-neoforge-1.21.1-2.0.2.jar"
+    },
+    {
+      "name": "[群青] ultramarine-1.21.1-0.7.jar",
+      "size": 4931591,
+      "sha1": "dc134240c56a9fa6a0ab8db9c0e92d859d03b876",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[群青] ultramarine-1.21.1-0.7.jar"
+    },
+    {
+      "name": "[联动兼容] ysm-opus-compat-1.0.0.jar",
+      "size": 5053,
+      "sha1": "8758dae6ba5048c30a5035744077bc6e1bc0ca7e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[联动兼容] ysm-opus-compat-1.0.0.jar"
+    },
+    {
+      "name": "[蟹农乐事] crabbersdelight-1.21.1-1.3.1.jar",
+      "size": 1013696,
+      "sha1": "28a459c17e69ce83e7b1f9dd3e22ee4ca62d1248",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[蟹农乐事] crabbersdelight-1.21.1-1.3.1.jar"
+    },
+    {
+      "name": "[观赏植物] more_orn_plants-neoforge-1.21.1-1.3.5-Chongyang.jar",
+      "size": 4466124,
+      "sha1": "50f7ee8b9c183a3f2f2648d239463fdc921b6197",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[观赏植物] more_orn_plants-neoforge-1.21.1-1.3.5-Chongyang.jar"
+    },
+    {
+      "name": "[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar",
+      "size": 16780388,
+      "sha1": "b7e26ddff4432f5e5bb05d14997dfee8f58039ca",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar"
+    },
+    {
+      "name": "[诡厄巫法] goety-3.2.2.jar",
+      "size": 95799757,
+      "sha1": "d7fe0abd288d279f6996d5e9e2bd4f74f476fc48",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[诡厄巫法] goety-3.2.2.jar"
+    },
+    {
+      "name": "[诡厄灾变] goety_cataclysm-1.21.1-1.8.4.jar",
+      "size": 1826641,
+      "sha1": "b8b066f0ee12099505306043455cdc879e2d3949",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[诡厄灾变] goety_cataclysm-1.21.1-1.8.4.jar"
+    },
+    {
+      "name": "[赏金] bountiful-neoforge-8.0.0-beta.2.jar",
+      "size": 721006,
+      "sha1": "8c1786d2850bd15c3a2dd0f50fccfda09125faa5",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[赏金] bountiful-neoforge-8.0.0-beta.2.jar"
+    },
+    {
+      "name": "[超多生物群系] BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "size": 22339968,
+      "sha1": "4cb5b98bf13b03906853d7af56f323c3a6534f9b",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[超多生物群系] BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
+    },
+    {
+      "name": "[车万女仆] touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+      "size": 24408776,
+      "sha1": "f96507810deaa2ffd8c3bd86a79d6ccbd56ca32e",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[车万女仆] touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar"
+    },
+    {
+      "name": "[车万女仆：万法皆通] touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar",
+      "size": 11088311,
+      "sha1": "1303a2791650f25d0df839c64b3fbd72f701bcd3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[车万女仆：万法皆通] touhou_little_maid_spell-1.21.1-1.9.1-neoforge.jar"
+    },
+    {
+      "name": "[车万女仆：性格] touhou_little_maid_personality-neoforge1.21.1-1.4.6.jar",
+      "size": 2059868,
+      "sha1": "835018b1e42b88b108ee37b06d765038e753063f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[车万女仆：性格] touhou_little_maid_personality-neoforge1.21.1-1.4.6.jar"
+    },
+    {
+      "name": "[车万女仆：棋圣] chesspvp-1.21.1-neoforge-1.0.0.jar",
+      "size": 20335,
+      "sha1": "c39f395e50f23d4746e5d42cafeea067b4011e50",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[车万女仆：棋圣] chesspvp-1.21.1-neoforge-1.0.0.jar"
+    },
+    {
+      "name": "[辅助] 战利品与资源查询-JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar",
+      "size": 301921,
+      "sha1": "731f5673dcaaa861785c2e4596e6982503c7fcba",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 战利品与资源查询-JustEnoughResources-NeoForge-1.21.1-1.6.0.66.jar"
+    },
+    {
+      "name": "[辅助] 拼音搜索-jecharacters-1.21.1-neoforge-4.5.30.jar",
+      "size": 255428,
+      "sha1": "1fcdebfe66b3477c1826948b7458a01bcf3d8930",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 拼音搜索-jecharacters-1.21.1-neoforge-4.5.30.jar"
+    },
+    {
+      "name": "[辅助] 按键控制-Controlling-neoforge-1.21.1-19.0.5.jar",
+      "size": 77555,
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 按键控制-Controlling-neoforge-1.21.1-19.0.5.jar"
+    },
+    {
+      "name": "[辅助] 按键搜索前置-Searchables-neoforge-1.21.1-1.0.2.jar",
+      "size": 77326,
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 按键搜索前置-Searchables-neoforge-1.21.1-1.0.2.jar"
+    },
+    {
+      "name": "[辅助] 潜影盒预览-shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
+      "size": 381204,
+      "sha1": "bddbccd689529f7f7ab04479e62c5e09b0be6be5",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 潜影盒预览-shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar"
+    },
+    {
+      "name": "[辅助] 物品管理器-jei-1.21.1-neoforge-19.70.0.460.jar",
+      "size": 4735620,
+      "sha1": "28f60e82131464f4093f5400df6c0c04915ffb38",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 物品管理器-jei-1.21.1-neoforge-19.70.0.460.jar"
+    },
+    {
+      "name": "[辅助] 玉-Jade-1.21.1-NeoForge-15.10.6.jar",
+      "size": 726853,
+      "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 玉-Jade-1.21.1-NeoForge-15.10.6.jar"
+    },
+    {
+      "name": "[辅助] 聊天头像-chat_heads-0.15.7-neoforge-1.21.jar",
+      "size": 91948,
+      "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 聊天头像-chat_heads-0.15.7-neoforge-1.21.jar"
+    },
+    {
+      "name": "[辅助] 苹果皮-appleskin-neoforge-mc1.21-3.0.9.jar",
+      "size": 75804,
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 苹果皮-appleskin-neoforge-mc1.21-3.0.9.jar"
+    },
+    {
+      "name": "[辅助] 视野变焦-betterzoom-neoforge-1.21.1-2.9.0.jar",
+      "size": 112812,
+      "sha1": "0e9179ce1c22ebccab50c8ec47978a9ce5bbbdf3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 视野变焦-betterzoom-neoforge-1.21.1-2.9.0.jar"
+    },
+    {
+      "name": "[辅助] 鼠标手势-MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "size": 73938,
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[辅助] 鼠标手势-MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+    },
+    {
+      "name": "[连锁破坏] ftb-ultimine-neoforge-2101.1.15.jar",
+      "size": 177109,
+      "sha1": "c96a7cc0b52bf919660ea61c1536cebd9d5773b3",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[连锁破坏] ftb-ultimine-neoforge-2101.1.15.jar"
+    },
+    {
+      "name": "[那不勒斯风味] neapolitan-1.21.1-6.0.1.jar",
+      "size": 4966177,
+      "sha1": "998d7e4251c51c841010ddac4c5311188e630a8d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[那不勒斯风味] neapolitan-1.21.1-6.0.1.jar"
+    },
+    {
+      "name": "[锋芒毕露] Lookin-Sharp-neoforge-1.0.5.jar",
+      "size": 195908,
+      "sha1": "a9260401ed67b90658c580efeb852ff73e508c49",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[锋芒毕露] Lookin-Sharp-neoforge-1.0.5.jar"
+    },
+    {
+      "name": "[阶梯强化] enhanced_monster-3.1.3.jar",
+      "size": 122719,
+      "sha1": "d7ef812028fb5b1e53e5139cfa4c668fccbea89c",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[阶梯强化] enhanced_monster-3.1.3.jar"
+    },
+    {
+      "name": "[阿根廷乐事] argentinasdelightreborn-0.0.23-neoforge-1.21.1.jar",
+      "size": 1418809,
+      "sha1": "bc91d7d0fe0aae180b5a0237d98a15962d8fbcb4",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[阿根廷乐事] argentinasdelightreborn-0.0.23-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "[随意乐事] casualnessdelight-0.6.jar",
+      "size": 300008,
+      "sha1": "fd62f6085fbc55e4274a77eaaa9d896233b0aaac",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[随意乐事] casualnessdelight-0.6.jar"
+    },
+    {
+      "name": "[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "size": 23946241,
+      "sha1": "b622fdce44781f454ade19089452932793353a7f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+    },
+    {
+      "name": "[魔法食事] farmers-spell-n-spellbook-1.0.7.0-1.21.1.jar",
+      "size": 5656310,
+      "sha1": "6bb6b337bae337f1754f747ed96f3c82c2af20c8",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[魔法食事] farmers-spell-n-spellbook-1.0.7.0-1.21.1.jar"
+    },
+    {
+      "name": "[鳍妙至极] fintastic-1.21.1-3.3.jar",
+      "size": 10756417,
+      "sha1": "3bbce7151996172de830d8112556f926adef36bc",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[鳍妙至极] fintastic-1.21.1-3.3.jar"
+    },
+    {
+      "name": "[麻将]riichi_mahjong-neoforge-0.4.1.jar",
+      "size": 1914006,
+      "sha1": "1e09d27b96121d5a75684bff6e24ef431ac0cee0",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[麻将]riichi_mahjong-neoforge-0.4.1.jar"
+    }
+  ],
+  "whitelist": [
+    "Xaeros_Minimap_*.jar",
+    "XaerosWorldMap_*.jar",
+    "appleskin-*.jar",
+    "DynamicLights-*.jar"
+  ]
+}
