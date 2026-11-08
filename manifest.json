@@ -1,8 +1,8 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-09",
-  "updated": "2026-11-09 05:35:24",
-  "notice": "掌上明猪模组更新（2026-11-09）：共包含 207 个模组",
+  "updated": "2026-11-09 07:46:56",
+  "notice": "掌上明猪模组更新（2026-11-09）：共包含 208 个模组",
   "mods": [
     {
       "name": "abyssia-neoforge-1.21.1-1.0.0.jar",
@@ -663,6 +663,12 @@
       "size": 7659787,
       "sha1": "4888f7e5f361a44ce0b81fdd409b996aa43c0c39",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[哥布林的统治] goblins_tyranny-neoforge-1.21.1-1.2.5.jar"
+    },
+    {
+      "name": "[多态合成] polymorph-neoforge-1.2.0+1.21.1.jar",
+      "size": 172671,
+      "sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[多态合成] polymorph-neoforge-1.2.0+1.21.1.jar"
     },
     {
       "name": "[夜雀乐事] mystias_izakaya-neoforge-1.21.1-0.2.6-hf.jar",
