@@ -1,7 +1,7 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-10",
-  "updated": "2026-11-10 03:06:02",
+  "updated": "2026-11-10 04:05:59",
   "notice": "掌上明猪模组更新（2026-11-10）：共包含 208 个模组",
   "mods": [
     {
@@ -744,8 +744,8 @@
     },
     {
       "name": "[掌上明猪] tacz_blueprints-1.0.0.jar",
-      "size": 195394,
-      "sha1": "d1f8ab4690a1182944c099b554dcd32f9ef57565",
+      "size": 195335,
+      "sha1": "dda96a4f09bbcec558e80446936389912df339c4",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] tacz_blueprints-1.0.0.jar"
     },
     {
