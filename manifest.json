@@ -1,7 +1,7 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-09",
-  "updated": "2026-11-09 12:42:15",
+  "updated": "2026-11-09 12:52:34",
   "notice": "掌上明猪模组更新（2026-11-09）：共包含 208 个模组",
   "mods": [
     {
@@ -786,8 +786,8 @@
     },
     {
       "name": "[无人之境] nomansland-1.6.3.jar",
-      "size": 31737013,
-      "sha1": "c6f69a4d7e23c07cf6321792cd134b99a2078938",
+      "size": 31865550,
+      "sha1": "3bfaaa205bb03ba50eadb69d4916a98e741323ef",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[无人之境] nomansland-1.6.3.jar"
     },
     {
