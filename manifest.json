@@ -1,7 +1,7 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-09",
-  "updated": "2026-11-09 07:58:38",
+  "updated": "2026-11-09 12:06:28",
   "notice": "掌上明猪模组更新（2026-11-09）：共包含 207 个模组",
   "mods": [
     {
@@ -1068,8 +1068,8 @@
     },
     {
       "name": "[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar",
-      "size": 16780388,
-      "sha1": "b7e26ddff4432f5e5bb05d14997dfee8f58039ca",
+      "size": 16780415,
+      "sha1": "d85553c8a7564dce7ac3c99b60a3d73e73633799",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar"
     },
     {
