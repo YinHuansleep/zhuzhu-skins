@@ -1,8 +1,8 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-09",
-  "updated": "2026-11-09 12:06:28",
-  "notice": "掌上明猪模组更新（2026-11-09）：共包含 207 个模组",
+  "updated": "2026-11-09 12:42:15",
+  "notice": "掌上明猪模组更新（2026-11-09）：共包含 208 个模组",
   "mods": [
     {
       "name": "abyssia-neoforge-1.21.1-1.0.0.jar",
@@ -1007,6 +1007,12 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[生机遍布] spawn-4.0.8-1.21.1.jar"
     },
     {
+      "name": "[竹叶清] aotake_sweep-neoforge-1.21.1-1.1.1.jar",
+      "size": 493144,
+      "sha1": "4af113e160a28b3f570b6e0d0e1e757183be3288",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[竹叶清] aotake_sweep-neoforge-1.21.1-1.1.1.jar"
+    },
+    {
       "name": "[简易刀剑] simplyswords-neoforge-1.70.2-1.21.1.jar",
       "size": 16282660,
       "sha1": "05b074ff774467f1fe9fb5592151b7845c321cbc",
@@ -1068,8 +1074,8 @@
     },
     {
       "name": "[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar",
-      "size": 16780415,
-      "sha1": "d85553c8a7564dce7ac3c99b60a3d73e73633799",
+      "size": 16797259,
+      "sha1": "88247c1fcfcc6bcd4a5dc3cbe60f94e4da94877d",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar"
     },
     {
