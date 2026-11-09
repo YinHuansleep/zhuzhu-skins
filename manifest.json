@@ -1,7 +1,7 @@
 ﻿{
   "name": "掌上明猪",
   "version": "掌上明猪2026-11-10",
-  "updated": "2026-11-10 04:05:59",
+  "updated": "2026-11-10 05:55:31",
   "notice": "掌上明猪模组更新（2026-11-10）：共包含 208 个模组",
   "mods": [
     {
@@ -108,8 +108,8 @@
     },
     {
       "name": "DangoMusic-1.4.1+1.21.1-neoforge.jar",
-      "size": 3399874,
-      "sha1": "bcf793142e479c0702bb10b3afea5072cd1f0fef",
+      "size": 3437009,
+      "sha1": "db6f7dfb2322dcd4b7235f07a22ad0c3a3f7c330",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/DangoMusic-1.4.1+1.21.1-neoforge.jar"
     },
     {
@@ -1074,8 +1074,8 @@
     },
     {
       "name": "[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar",
-      "size": 16808786,
-      "sha1": "cd374aee4e1b6280733753653b90b5d956d8e9b5",
+      "size": 16810120,
+      "sha1": "a1cc54561479e5caa3f995580304934243a571e1",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar"
     },
     {
