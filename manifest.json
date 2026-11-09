@@ -1,8 +1,8 @@
 ﻿{
   "name": "掌上明猪",
-  "version": "掌上明猪2026-11-09",
-  "updated": "2026-11-09 12:52:34",
-  "notice": "掌上明猪模组更新（2026-11-09）：共包含 208 个模组",
+  "version": "掌上明猪2026-11-10",
+  "updated": "2026-11-10 03:06:02",
+  "notice": "掌上明猪模组更新（2026-11-10）：共包含 208 个模组",
   "mods": [
     {
       "name": "abyssia-neoforge-1.21.1-1.0.0.jar",
@@ -108,8 +108,8 @@
     },
     {
       "name": "DangoMusic-1.4.1+1.21.1-neoforge.jar",
-      "size": 3397573,
-      "sha1": "9339a0b134694f63271a10c0e53e7087d2407a50",
+      "size": 3399874,
+      "sha1": "bcf793142e479c0702bb10b3afea5072cd1f0fef",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/DangoMusic-1.4.1+1.21.1-neoforge.jar"
     },
     {
@@ -354,8 +354,8 @@
     },
     {
       "name": "Shincolle-1.21.1-0.9.5.jar",
-      "size": 6576868,
-      "sha1": "9a55755438016e2e8c9305b1c152cf7f95223efe",
+      "size": 6588067,
+      "sha1": "907a2adf37b8cb5defa89b4f0334999c9ba8ecc3",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/Shincolle-1.21.1-0.9.5.jar"
     },
     {
@@ -744,8 +744,8 @@
     },
     {
       "name": "[掌上明猪] tacz_blueprints-1.0.0.jar",
-      "size": 54807,
-      "sha1": "5bc037aab901245e847abf4554dbe3a8b7579964",
+      "size": 195394,
+      "sha1": "d1f8ab4690a1182944c099b554dcd32f9ef57565",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] tacz_blueprints-1.0.0.jar"
     },
     {
@@ -1074,8 +1074,8 @@
     },
     {
       "name": "[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar",
-      "size": 16797259,
-      "sha1": "88247c1fcfcc6bcd4a5dc3cbe60f94e4da94877d",
+      "size": 16808786,
+      "sha1": "cd374aee4e1b6280733753653b90b5d956d8e9b5",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar"
     },
     {
