@@ -1,8 +1,8 @@
 ﻿{
   "name": "掌上明猪",
-  "version": "掌上明猪2026-11-11",
-  "updated": "2026-11-11 00:39:40",
-  "notice": "掌上明猪模组更新（2026-11-11）：共包含 208 个模组",
+  "version": "掌上明猪2026-11-15",
+  "updated": "2026-11-15 20:43:13",
+  "notice": "掌上明猪模组更新（2026-11-15）：共包含 216 个模组",
   "mods": [
     {
       "name": "abyssia-neoforge-1.21.1-1.0.0.jar",
@@ -29,6 +29,12 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/architectury-13.0.11-neoforge.jar"
     },
     {
+      "name": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "size": 19809,
+      "sha1": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/attributefix-neoforge-1.21.1-21.1.3.jar"
+    },
+    {
       "name": "balm-neoforge-1.21.1-21.0.67.jar",
       "size": 786010,
       "sha1": "68c95ca8a6a87d26199d43ff6978bc94949329e3",
@@ -51,6 +57,12 @@
       "size": 1214507,
       "sha1": "b947d5faef872a3f4c856a814c994d70f2065666",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/blueprint-1.21.1-8.2.0.jar"
+    },
+    {
+      "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "size": 328813,
+      "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
     },
     {
       "name": "boss_companions-1.0.2-neoforge-1.21.1.jar",
@@ -347,6 +359,12 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/pool-and-billiards-v1.3.7-mc1.21plus.jar"
     },
     {
+      "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "size": 84812,
+      "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/prickle-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
       "name": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
       "size": 2215495,
       "sha1": "05aacb8b78a6af3f8a4c425015d487c64c118041",
@@ -354,8 +372,8 @@
     },
     {
       "name": "Shincolle-1.21.1-0.9.5.jar",
-      "size": 6588067,
-      "sha1": "907a2adf37b8cb5defa89b4f0334999c9ba8ecc3",
+      "size": 6590734,
+      "sha1": "0108a855de77f4c51ea3ecce11d030a576330fcd",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/Shincolle-1.21.1-0.9.5.jar"
     },
     {
@@ -521,6 +539,12 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[Quincy的盘子] quincyplate-neoforge1.21(.1)-v1.0.4.jar"
     },
     {
+      "name": "[[东篱南山居]]flavor_immersed_daily_argo-1.21.1-neoforge-2026.11.15.jar",
+      "size": 4952926,
+      "sha1": "32df9b6437855ba385a62dd5ebf7a21a7fa8af7d",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[[东篱南山居]]flavor_immersed_daily_argo-1.21.1-neoforge-2026.11.15.jar"
+    },
+    {
       "name": "[万用皮肤补丁] CustomSkinLoader_Universal-15.1.jar",
       "size": 222917,
       "sha1": "324e6921ecd576e44875981466e7f22170b6541a",
@@ -531,12 +555,6 @@
       "size": 1300558,
       "sha1": "363e91732d863b561daaae448a7f9fee7b38cde4",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[下单了] ordertocook-1.3.6-neoforge1.21.1.jar"
-    },
-    {
-      "name": "[东篱南山居]flavor_immersed_daily_argo-1.21.1-neoforge-2026.11.08.jar",
-      "size": 4859877,
-      "sha1": "d105d72d8c4d7432b41d6ee958accfea40363ced",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[东篱南山居]flavor_immersed_daily_argo-1.21.1-neoforge-2026.11.08.jar"
     },
     {
       "name": "[乡村乐事] rusticdelight-neoforge-1.21-1.7.1.jar",
@@ -713,6 +731,12 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[幻想乡乐事 -- 妖怪们的飨宴] youkaishomecoming-4.2.16.jar"
     },
     {
+      "name": "[建筑手杖]constructionwand-kots-1.21.1-2.16.13.jar",
+      "size": 204494,
+      "sha1": "2f92561a985e1a81da2e4a7a685efb62739d0d4f",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[建筑手杖]constructionwand-kots-1.21.1-2.16.13.jar"
+    },
+    {
       "name": "[惊悚乐事] frightsdelight-neoforge-1.21.1-1.4.8.jar",
       "size": 968074,
       "sha1": "fe92b14b28156efce31d1e3691de52acc46d266e",
@@ -759,6 +783,12 @@
       "size": 335334,
       "sha1": "fd16ec1f32313c566807afb7612b6e863c35029f",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] zhuzhuecon-1.0.0.jar"
+    },
+    {
+      "name": "[掌上明猪] zhuzhuqianghua-2.7.0.jar",
+      "size": 209698,
+      "sha1": "cb187b987b67597ede2d46586c8ef19e9b40f2ab",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[掌上明猪] zhuzhuqianghua-2.7.0.jar"
     },
     {
       "name": "[提瓦特乐事] teyvatdelight-1.1.12.jar",
@@ -813,6 +843,12 @@
       "size": 19123767,
       "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力] create-1.21.1-6.0.10.jar"
+    },
+    {
+      "name": "[机械动力附属]create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "size": 235239,
+      "sha1": "ed0ff71df9bfe3b66b97c51a2834031084300a65",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[机械动力附属]create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
     },
     {
       "name": "[机械动力：伪装方块+] copycats-3.0.9+mc.1.21.1-neoforge.jar",
@@ -983,12 +1019,6 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[烘焙坊] bakeries-1.21.1-NeoForge-1.0.5.jar"
     },
     {
-      "name": "[烟火凡人心]flavor_immersed_daily-1.21.1-neoforge-2026.11.7.jar",
-      "size": 4589086,
-      "sha1": "fd37428501a0adc3687f7993d7b3a8477f397964",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[烟火凡人心]flavor_immersed_daily-1.21.1-neoforge-2026.11.7.jar"
-    },
-    {
       "name": "[烧烤乐事] barbequesdelight-1.3.0.jar",
       "size": 847092,
       "sha1": "b69ee6fdd97d0d01eb0a6e9996912457226da909",
@@ -1005,6 +1035,18 @@
       "size": 73681436,
       "sha1": "3af0c476f36a3888f4686c181036a0a179a8b7b5",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[生机遍布] spawn-4.0.8-1.21.1.jar"
+    },
+    {
+      "name": "[生活调味料]spiceoflifelatiao-neoforge-1.4.9.jar",
+      "size": 172940,
+      "sha1": "a75d6e3a9ad0cadab7a7fb5248cdc5ae39334e3a",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[生活调味料]spiceoflifelatiao-neoforge-1.4.9.jar"
+    },
+    {
+      "name": "[生活调味料：胡萝卜版]solcarrot-1.16.6.jar",
+      "size": 105355,
+      "sha1": "32e9bbe18ae1f2f7f672ce08af51ec1928599182",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[生活调味料：胡萝卜版]solcarrot-1.16.6.jar"
     },
     {
       "name": "[竹叶清] aotake_sweep-neoforge-1.21.1-1.1.1.jar",
@@ -1071,12 +1113,6 @@
       "size": 4466124,
       "sha1": "50f7ee8b9c183a3f2f2648d239463fdc921b6197",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[观赏植物] more_orn_plants-neoforge-1.21.1-1.3.5-Chongyang.jar"
-    },
-    {
-      "name": "[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar",
-      "size": 16810318,
-      "sha1": "77f272dd9dad67910e743ba5a6139cfaa9992ab9",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[言出法随] numen-neoforge-1.21.1-0.1.5-dev.jar"
     },
     {
       "name": "[诡厄巫法] goety-3.2.2.jar",
@@ -1229,6 +1265,12 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[随意乐事] casualnessdelight-0.6.jar"
     },
     {
+      "name": "[雅致乡下]elegant_countryside-1.0.0.jar",
+      "size": 30476409,
+      "sha1": "c7f79cc520a3fa42ac8f421533684d1df3279db2",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[雅致乡下]elegant_countryside-1.0.0.jar"
+    },
+    {
       "name": "[首领崛起] block_factorys_bosses-2.1.2-neo-1.21.1.jar",
       "size": 23946241,
       "sha1": "b622fdce44781f454ade19089452932793353a7f",
@@ -1242,8 +1284,8 @@
     },
     {
       "name": "[鳍妙至极] fintastic-1.21.1-3.3.jar",
-      "size": 10756417,
-      "sha1": "3bbce7151996172de830d8112556f926adef36bc",
+      "size": 10800689,
+      "sha1": "8ecd7ba266c5532f72d6fe59661cb5145b1e5242",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[鳍妙至极] fintastic-1.21.1-3.3.jar"
     },
     {
@@ -1251,6 +1293,12 @@
       "size": 1914006,
       "sha1": "1e09d27b96121d5a75684bff6e24ef431ac0cee0",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/[麻将]riichi_mahjong-neoforge-0.4.1.jar"
+    },
+    {
+      "name": "【烟火凡人心1.21.1】flavor_immersed_daily-1.21.1-neoforge-2026.11.14.jar",
+      "size": 5296029,
+      "sha1": "5f4b5a7e6563909eb86f4b1a0250568ab0fc6764",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YinHuansleep/zhuzhu-skins/main/mods/【烟火凡人心1.21.1】flavor_immersed_daily-1.21.1-neoforge-2026.11.14.jar"
     }
   ],
   "whitelist": [
